@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d16625b-1f8a-4112-9e0f-483a77cbc1e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/aspectjweaver-1.9.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/mysql-connector-java-8.0.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-aop-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-aop-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-aop-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-aspects-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-aspects-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-aspects-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-beans-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-beans-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-beans-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-context-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-context-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-context-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-context-indexer-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-context-indexer-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-context-indexer-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-context-support-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-context-support-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-context-support-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-core-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-core-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-core-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-expression-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-expression-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-expression-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-instrument-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-instrument-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-instrument-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-jcl-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-jcl-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-jcl-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-jdbc-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-jdbc-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-jdbc-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-jms-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-jms-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-jms-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-messaging-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-messaging-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-messaging-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-orm-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-orm-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-orm-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-oxm-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-oxm-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-oxm-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-r2dbc-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-r2dbc-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-r2dbc-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-test-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-test-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-test-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-tx-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-tx-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-tx-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-web-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-web-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-web-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-webflux-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-webflux-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-webflux-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-webmvc-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-webmvc-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-webmvc-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-websocket-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-websocket-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/lib/spring-websocket-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/src/com/luv2code/aopdemo/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/src/com/luv2code/aopdemo/DemoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/src/com/luv2code/aopdemo/MainDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/src/com/luv2code/aopdemo/aspect/LuvAopExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/src/com/luv2code/aopdemo/aspect/MyApiAnalyticsAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/src/com/luv2code/aopdemo/aspect/MyCloudLogAsyncAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/src/com/luv2code/aopdemo/aspect/MyDemoLogginAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/src/com/luv2code/aopdemo/dao/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOP/src/com/luv2code/aopdemo/dao/MembershipDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPAround/src/com/luv2code/aopdemo/AroundDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPAround/src/com/luv2code/aopdemo/AroundHandleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPAround/src/com/luv2code/aopdemo/AroundWithLoggerDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPAround/src/com/luv2code/aopdemo/service/TrafficFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/aspectjweaver-1.9.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/mysql-connector-java-8.0.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-aop-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-aop-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-aop-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-aspects-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-aspects-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-aspects-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-beans-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-beans-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-beans-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-context-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-context-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-context-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-context-indexer-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-context-indexer-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-context-indexer-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-context-support-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-context-support-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-context-support-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-core-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-core-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-core-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-expression-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-expression-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-expression-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-instrument-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-instrument-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-instrument-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-jcl-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-jcl-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-jcl-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-jdbc-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-jdbc-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-jdbc-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-jms-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-jms-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-jms-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-messaging-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-messaging-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-messaging-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-orm-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-orm-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-orm-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-oxm-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-oxm-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-oxm-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-r2dbc-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-r2dbc-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-r2dbc-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-test-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-test-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-test-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-tx-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-tx-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-tx-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-web-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-web-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-web-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-webflux-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-webflux-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-webflux-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-webmvc-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-webmvc-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-webmvc-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-websocket-5.3.7-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-websocket-5.3.7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/lib/spring-websocket-5.3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/src/com/luv2code/aopdemo/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/src/com/luv2code/aopdemo/AfterReturningDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/src/com/luv2code/aopdemo/AfterThrowingDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/src/com/luv2code/aopdemo/DemoConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/src/com/luv2code/aopdemo/MainDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/src/com/luv2code/aopdemo/aspect/LuvAopExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/src/com/luv2code/aopdemo/aspect/MyApiAnalyticsAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/src/com/luv2code/aopdemo/aspect/MyCloudLogAsyncAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/src/com/luv2code/aopdemo/aspect/MyDemoLogginAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/src/com/luv2code/aopdemo/dao/AccountDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AOPafter/src/com/luv2code/aopdemo/dao/MembershipDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AfterfinalAOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AfterfinalAOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AfterfinalAOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AfterfinalAOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AfterfinalAOP/src/com/luv2code/aopdemo/Afterfinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/src/main/java/com/luv2code/springdemo/config/DemoAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/src/main/java/com/luv2code/springdemo/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/src/main/java/com/luv2code/springdemo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/src/main/java/com/luv2code/springdemo/rest/DemoRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/src/main/java/com/luv2code/springdemo/rest/StudentErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/src/main/java/com/luv2code/springdemo/rest/StudentNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/src/main/java/com/luv2code/springdemo/rest/StudentRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-rest-demo/src/main/java/com/luv2code/springdemo/rest/StudentRestExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-demo-01-base-app/src/main/java/com/luv2code/springsecurity/demo/config/DemoAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-demo-01-base-app/src/main/java/com/luv2code/springsecurity/demo/config/DemoSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-demo-01-base-app/src/main/java/com/luv2code/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-demo-01-base-app/src/main/java/com/luv2code/springsecurity/demo/config/SecurityWebApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-demo-01-base-app/src/main/java/com/luv2code/springsecurity/demo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-demo-01-base-app/src/main/java/com/luv2code/springsecurity/demo/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-demo-01-base-app/src/main/webapp/WEB-INF/view/access-denied.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-demo-01-base-app/src/main/webapp/WEB-INF/view/fancy-login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-demo-01-base-app/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-demo-01-base-app/src/main/webapp/WEB-INF/view/leaders.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-demo-01-base-app/src/main/webapp/WEB-INF/view/plain-login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-security-demo-01-base-app/src/main/webapp/WEB-INF/view/systems.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springsecurityjdbc/src/main/java/com/luv2code/springsecurity/demo/config/DemoAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springsecurityjdbc/src/main/java/com/luv2code/springsecurity/demo/config/DemoSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springsecurityjdbc/src/main/java/com/luv2code/springsecurity/demo/config/MySpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springsecurityjdbc/src/main/java/com/luv2code/springsecurity/demo/config/SecurityWebApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springsecurityjdbc/src/main/java/com/luv2code/springsecurity/demo/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springsecurityjdbc/src/main/java/com/luv2code/springsecurity/demo/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springsecurityjdbc/src/main/resources/persistence-mysql.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springsecurityjdbc/src/main/webapp/WEB-INF/view/access-denied.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springsecurityjdbc/src/main/webapp/WEB-INF/view/fancy-login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springsecurityjdbc/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springsecurityjdbc/src/main/webapp/WEB-INF/view/leaders.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springsecurityjdbc/src/main/webapp/WEB-INF/view/plain-login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springsecurityjdbc/src/main/webapp/WEB-INF/view/systems.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1teFLcqJeSG17u0oCgrQQ1zCjST" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d16625b-1f8a-4112-9e0f-483a77cbc1e1" name="Default Changelist" comment="" />
+      <created>1623121593199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623121593199</updated>
+    </task>
+    <servers />
+  </component>
+</project>
